@@ -4,4 +4,11 @@ Device maintainer: ShivaOP
 
 Date - 10/02/2025 -
 ================================
-initial build
+1. OTA added
+2. Oneplus Camera Added
+3. Dolby Added
+4. Hotspot at 5Ghz now works!!
+5. Deleted unused google services to improve
+battery and stability
+6. Feb security Patches Added!!
+≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠
