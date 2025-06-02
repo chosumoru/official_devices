@@ -12,3 +12,10 @@ Date - 10/02/2025 -
 battery and stability
 6. Feb security Patches Added!!
 ≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠
+Date - 2 june 2025
+1. Dolby added 
+2. OTA added
+3. Hotspot at 6ghz works
+4. May security patches 
+5. Chootad kernel added
+6. KernelSU NEXT added
